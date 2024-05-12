@@ -24,6 +24,7 @@ Hey, I'm Yoon Kim!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Management+Engineering+Student;Full+Stack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
+<img align="left" src="https://github.com/Kim-Yoonhyok/Kim-Yoonhyok/blob/main/profile.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
