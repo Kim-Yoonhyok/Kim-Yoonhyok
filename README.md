@@ -1,22 +1,6 @@
-
-<!--
-**Kim-Yoonhyok/Kim-Yoonhyok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">
 Hey, I'm Yoon Kim!
+</h1>
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -24,7 +8,7 @@ Hey, I'm Yoon Kim!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Management+Engineering+Student;Full+Stack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/Kim-Yoonhyok/Kim-Yoonhyok/blob/main/profile.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/Kim-Yoonhyok/Kim-Yoonhyok/blob/main/profile.png" width="320" />
 <hr>
 
 ```
@@ -32,11 +16,16 @@ Hey, I'm Yoon Kim!
 -------------------------
 💻 I'm an aspiring Full Stack Developer
 📚 I'm studying Management Engineering at the University of Waterloo
-📝 I have a deep passion for frontend and machine learning
+📝 I have a deep passion for frontend developing and machine learning
 🔭 Working on developing my skills and becoming a better programmer
+🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: Python, Javascript
+🚩 Interested in Full Stack Machine Learning Application development
+⚡ Love to play Soccer, badminton and going to the gym!
+
 ```
 <hr/>
+
 
 <h3 align="center">👨‍💻 Programming Languages<h3>
 
